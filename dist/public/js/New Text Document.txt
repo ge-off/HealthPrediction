@@ -1,0 +1,8 @@
+  var CognitoUserPool = AmazonCognitoIdentity.CognitoUserPool;
+
+    // Modules, e.g. Webpack:
+    var AmazonCognitoIdentity = require('amazon-cognito-identity-js');
+    var CognitoUserPool = AmazonCognitoIdentity.CognitoUserPool;
+
+    // ES Modules, e.g. transpiling with Babel
+    import { CognitoUserPool, CognitoUserAttribute, CognitoUser } from 'amazon-cognito-identity-js';

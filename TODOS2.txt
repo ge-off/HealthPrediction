@@ -1,0 +1,21 @@
+TODO: Fix login to save SubId persistancy
+Write data function (same as the current lambda function) for Wizard
+Line data completion. (Possibly add dropdown to select different Vital types.)
+Start working on front end for Login
+Tidy up forms
+Tidy up scripts (move to external script files)
+Account Details Page
+Account Settings Page
+Reset Password Page
+
+FUNCTIONING EWS SCORE PANEL
+FUNCTIONING HISTORY PANEL?
+PROGRESS BARS
+
+CHART SHALL HAVE TIMESTAMPS FOR MORE MEANINGFUL DATA
+
+REVIEW SYSTOLIC BP RULES FOR EWS
+
+CERTIFICATE HTTPS // LOAD BALANCER & GET DOMAIN
+
+HYPERLINKS TO MAYOCLINIC
